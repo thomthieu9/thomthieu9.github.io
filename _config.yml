@@ -30,7 +30,7 @@ github_username:
 markdown: kramdown
 
 # Build settings
-theme: jekyll-theme-mint
+theme: jekyll-theme-mint@branch
 blog_theme: auto
 plugins:
   - jekyll-feed
