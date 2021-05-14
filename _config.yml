@@ -30,7 +30,7 @@ github_username:
 markdown: kramdown
 
 # Build settings
-remote_theme: jekyll-theme-mint@master
+remote_theme: aidewoode/jekyll-theme-mint@master
 blog_theme: auto
 plugins:
   - jekyll-feed
